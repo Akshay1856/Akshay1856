@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently in my second year of college, pursuing Computer Science with specialisation in Cyber Security<br>- I am currently exploring the role of Artificial Intelligence in Cyber Security and its importance<br>- I am open to collaborating on security-related tasks and live projects<br>- Ask me about cybersecurity and programming languages across C, Java and Python<br>- I am looking for help in cybersecurity-related internships and jobs<br><br>- Fun Fact: I can solve almost every problem in the most fanciest yet effective way possible
+- Currently in my third year of college, pursuing Computer Science with specialisation in Cyber Security<br>- I am currently exploring the role of Artificial Intelligence in Cyber Security and its importance<br>- I am open to collaborating on security-related tasks and live projects<br>- Ask me about cybersecurity and programming languages across C, Java and Python<br>- I am looking for help in cybersecurity-related internships and jobs<br><br>- Fun Fact: I can solve almost every problem in the most fanciest yet effective way possible
 
 
 ## 🌐 Socials:
